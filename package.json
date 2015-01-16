@@ -1,6 +1,6 @@
 {
   "name": "lacona-util-fulltext",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Take lacona output and generate a simple string",
   "main": "lib/fulltext.js",
   "scripts": {
